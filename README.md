@@ -44,36 +44,36 @@ The dataset consists of the following files:
 
 .
 +-- gzip.zip
-�   +-- emnist-balanced-mapping.txt
-�   +-- emnist-balanced-test-images-idx3-ubyte.gz
-�   +-- emnist-balanced-test-labels-idx1-ubyte.gz
-�   +-- emnist-balanced-train-images-idx3-ubyte.gz
-�   +-- emnist-balanced-train-labels-idx1-ubyte.gz
-�   +-- emnist-byclass-mapping.txt
-�   +-- emnist-byclass-test-images-idx3-ubyte.gz
-�   +-- emnist-byclass-test-labels-idx1-ubyte.gz
-�   +-- emnist-byclass-train-images-idx3-ubyte.gz
-�   +-- emnist-byclass-train-labels-idx1-ubyte.gz
-�   +-- emnist-bymerge-mapping.txt
-�   +-- emnist-bymerge-test-images-idx3-ubyte.gz
-�   +-- emnist-bymerge-test-labels-idx1-ubyte.gz
-�   +-- emnist-bymerge-train-images-idx3-ubyte.gz
-�   +-- emnist-bymerge-train-labels-idx1-ubyte.gz
-�   +-- emnist-digits-mapping.txt
-�   +-- emnist-digits-test-images-idx3-ubyte.gz
-�   +-- emnist-digits-test-labels-idx1-ubyte.gz
-�   +-- emnist-digits-train-images-idx3-ubyte.gz
-�   +-- emnist-digits-train-labels-idx1-ubyte.gz
-�   +-- emnist-letters-mapping.txt
-�   +-- emnist-letters-test-images-idx3-ubyte.gz
-�   +-- emnist-letters-test-labels-idx1-ubyte.gz
-�   +-- emnist-letters-train-images-idx3-ubyte.gz
-�   +-- emnist-letters-train-labels-idx1-ubyte.gz
-�   +-- emnist-mnist-mapping.txt
-�   +-- emnist-mnist-test-images-idx3-ubyte.gz
-�   +-- emnist-mnist-test-labels-idx1-ubyte.gz
-�   +-- emnist-mnist-train-images-idx3-ubyte.gz
-�   +-- emnist-mnist-train-labels-idx1-ubyte.gz
+   +-- emnist-balanced-mapping.txt
+   +-- emnist-balanced-test-images-idx3-ubyte.gz
+   +-- emnist-balanced-test-labels-idx1-ubyte.gz
+   +-- emnist-balanced-train-images-idx3-ubyte.gz
+   +-- emnist-balanced-train-labels-idx1-ubyte.gz
+   +-- emnist-byclass-mapping.txt
+   +-- emnist-byclass-test-images-idx3-ubyte.gz
+   +-- emnist-byclass-test-labels-idx1-ubyte.gz
+   +-- emnist-byclass-train-images-idx3-ubyte.gz
+   +-- emnist-byclass-train-labels-idx1-ubyte.gz
+   +-- emnist-bymerge-mapping.txt
+   +-- emnist-bymerge-test-images-idx3-ubyte.gz
+   +-- emnist-bymerge-test-labels-idx1-ubyte.gz
+   +-- emnist-bymerge-train-images-idx3-ubyte.gz
+   +-- emnist-bymerge-train-labels-idx1-ubyte.gz
+   +-- emnist-digits-mapping.txt
+   +-- emnist-digits-test-images-idx3-ubyte.gz
+   +-- emnist-digits-test-labels-idx1-ubyte.gz
+   +-- emnist-digits-train-images-idx3-ubyte.gz
+   +-- emnist-digits-train-labels-idx1-ubyte.gz
+   +-- emnist-letters-mapping.txt
+   +-- emnist-letters-test-images-idx3-ubyte.gz
+   +-- emnist-letters-test-labels-idx1-ubyte.gz
+   +-- emnist-letters-train-images-idx3-ubyte.gz
+   +-- emnist-letters-train-labels-idx1-ubyte.gz
+   +-- emnist-mnist-mapping.txt
+   +-- emnist-mnist-test-images-idx3-ubyte.gz
+   +-- emnist-mnist-test-labels-idx1-ubyte.gz
+   +-- emnist-mnist-train-images-idx3-ubyte.gz
+   +-- emnist-mnist-train-labels-idx1-ubyte.gz
 +-- matlab.zip
     +-- emnist-balanced.mat
     +-- emnist-byclass.mat
@@ -82,7 +82,6 @@ The dataset consists of the following files:
     +-- emnist-letters.mat
     +-- emnist-mnist.mat
 +-- Readme.txt
-
 
 
 
